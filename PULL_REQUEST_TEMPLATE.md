@@ -6,10 +6,11 @@
 
 ## Base branch
 
-- [ ] My base branch is **`develop`** *(or this PR is a promotion `develop → staging` / `staging → production`, or a `hotfix/*` into `production`)*
+- [ ] My base branch is **`develop`** — or **`main`** in single-branch repos *(exceptions: promotions `develop → staging` / `staging → production`, and `hotfix/*` into `production`)*
 
-<!-- Day-to-day feature and fix branches always target `develop`. If GitHub pre-selected
-     `production` or `staging` as the base, change it before opening this PR. -->
+<!-- In three-branch repos, day-to-day feature and fix branches always target `develop`.
+     If GitHub pre-selected `production` or `staging` as the base, change it before
+     opening this PR. -->
 
 ## Checklist
 
