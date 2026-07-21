@@ -13,5 +13,5 @@
 
 ## Checklist
 
-- [ ] PR title follows Conventional Commits — `type(scope): description [TICKET]` — squash merges use it as the commit message
+- [ ] PR title follows Conventional Commits — `type(scope): description [TICKET]` (use `[NO-TICKET]` when no Jira ticket exists) — squash merges use it as the commit message
 - [ ] Tests added or updated where behavior changed

@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: [develop, staging, production]
 
+permissions:
+  contents: read
+
 jobs:
   checks:
     runs-on: ubuntu-latest
