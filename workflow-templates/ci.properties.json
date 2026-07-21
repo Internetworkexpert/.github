@@ -1,0 +1,5 @@
+{
+  "name": "INE CI (three-branch model)",
+  "description": "Canonical CI triggers for the develop/staging/production branch model: checks on PRs into every long-lived branch and on pushes to develop.",
+  "categories": ["ci"]
+}
