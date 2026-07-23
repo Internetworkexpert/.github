@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: INE staff — Jira
+    url: https://inetraining.atlassian.net/
+    about: Internal work is tracked in Jira, not GitHub issues.
